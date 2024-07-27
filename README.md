@@ -54,3 +54,4 @@ We welcome contributions to improve the dashboard. Please follow these steps:
 4. Submit a pull request
 
 ## License
+This project is open source and available under the MIT License.
